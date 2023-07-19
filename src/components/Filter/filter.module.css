@@ -1,0 +1,14 @@
+.filterWrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 10px;
+}
+.inputFilter {
+  font-size: 24px;
+  height: 40px;
+  border-radius: 5px;
+  box-shadow: 6px 6px 6px rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+  text-align: center;
+}
